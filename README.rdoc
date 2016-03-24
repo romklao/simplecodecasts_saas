@@ -1,7 +1,7 @@
 == README
 
 Coder Manual Project Application
-Subscription-Based web Application
+Subscription-Based web application
 https://codermanual.com
 
 Things you may want to cover:
