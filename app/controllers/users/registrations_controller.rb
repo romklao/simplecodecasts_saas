@@ -12,7 +12,7 @@ class Users::RegistrationsController < Devise::RegistrationsController
       end
     end
   end
-end
+
 
 private
   def select_plan
@@ -21,6 +21,7 @@ private
       redirect_to root_url
     end
   end 
+end
       
 
 
