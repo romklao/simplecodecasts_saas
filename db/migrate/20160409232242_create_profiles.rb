@@ -13,3 +13,5 @@ class CreateProfiles < ActiveRecord::Migration
     end
   end
 end
+
+
